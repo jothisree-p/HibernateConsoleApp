@@ -32,3 +32,7 @@ Bill Cancellation with automatic balance adjustment
 Transaction management using Hibernate Session and Transaction
 Object-Relational Mapping using Hibernate Entities
 
+Output:
+
+<img width="1450" height="453" alt="image" src="https://github.com/user-attachments/assets/f472a119-5aef-414e-b6a8-3ca4389da261" />
+
